@@ -1,5 +1,9 @@
 # World Bank Data Dashboard
-Web app dashboard using data from the World Bank
+Web app dashboard using data from the World Bank.
+
+The web app can be accessed through the following link:
+
+https://worldbank-datadashboard.herokuapp.com/
 
 # Installation
 The requirements to install this dashboard are specified in requirements.txt
