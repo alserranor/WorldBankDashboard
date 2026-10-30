@@ -1,9 +1,7 @@
 # World Bank Data Dashboard
 Web app dashboard using data from the World Bank.
 
-The web app can be accessed through the following link:
-
-https://worldbank-datadashboard.herokuapp.com/
+Previously hosted on Heroku (free tier discontinued). To run it locally: pip install -r requirements.txt, then python worldbank.py.
 
 # Installation
 The requirements to install this dashboard are specified in requirements.txt
